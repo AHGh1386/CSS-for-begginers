@@ -8,7 +8,11 @@
    1. Inline
    2. Internal
    3. External
-
+3. Selectors
+   1. Type selectors
+   2. id selectors
+   3. Class selectors
+   4. Child selectors
 
 
 # 1.CSS Introduction:
@@ -48,3 +52,10 @@ You can use a <style> element in the <head> section.
 ## External
 
 You can use <link> element to link to an external CSS file.
+
+# 3.Selectors
+
+## Type selectors:
+
+you should use the type of your element.
+For example if you wanna give style to paragraphs you can use `p`

@@ -71,3 +71,12 @@ p{
 
 yo should first give an id to the element that you want, then use the id with a # to give style to it.
 
+For example if we wanna give style to `<p id="p1">Hello World</p>
+
+```css
+
+#p1{
+   color : green;
+}
+```
+

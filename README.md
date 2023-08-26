@@ -59,3 +59,15 @@ You can use <link> element to link to an external CSS file.
 
 you should use the type of your element.
 For example if you wanna give style to paragraphs you can use `p`
+
+```css
+
+p{
+   background-color : blue;
+}
+```
+
+## id selector
+
+yo should first give an id to the element that you want, then use the id with a # to give style to it.
+

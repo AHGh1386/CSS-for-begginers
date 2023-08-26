@@ -3,6 +3,12 @@
 1. CSS Introduction
    1. What is CSS?
 
+      
+2. Ways to give style
+   1. Inline
+   2. Internal
+   3. External
+
 
 
 # 1.CSS Introduction:

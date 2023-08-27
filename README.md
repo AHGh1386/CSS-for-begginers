@@ -80,3 +80,19 @@ For example if we wanna give style to `<p id="p1">Hello World</p>`
 }
 ```
 
+## Class selectors
+
+HTML👇👇
+```html
+<h1 class = "heading">Heading1</h1>
+
+```
+
+CSS👇👇
+
+```css
+.heading{
+    background-color: green;
+    color: white;
+}
+```

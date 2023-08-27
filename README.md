@@ -96,3 +96,21 @@ CSS👇👇
     color: white;
 }
 ```
+
+## Child selectors
+
+HTML 👇👇
+
+```html
+<blockquote class="test">
+    <p>Hello World</p>
+</blockquote>
+```
+
+CSS👇👇
+
+```css
+blockquote.test>p{
+     color: crimson; 
+}
+```

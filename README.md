@@ -132,6 +132,20 @@ blockquote.test>p{
 ```
 This gives style to all of the elements 👆
 
+## Attribute selectors
+
+HTML 👇👇
+```html
+<p lang="Spanish">Hola Mundo</p>
+```
+
+CSS 👇👇
+```css
+p[lang="Spanish"]{
+     color: blue;
+}
+```
+
 ## What is grid??
 
 CSS Grid gives you the tools to create basic and advanced website layouts in responsive ways that look great on mobile, tablet, and desktop devices.

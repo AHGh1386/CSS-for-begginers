@@ -153,7 +153,7 @@ p[lang="Spanish"]{
 }
 ```
 
-This gives style to all of the elements except the element that its id is para1.👆👆
+This gives style to all of the elements except the element that its id is para1👆
 
 
 # 4.Grid

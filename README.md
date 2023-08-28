@@ -123,6 +123,5 @@ blockquote.test>p{
 
 ## CSS Grid Layout Module
 
-<img src="AHGh1386/CSS-for-begginers/blob/main/
-IMG_20230828_103840.jpg">
+<img src="https://github.com/AHGh1386/CSS-for-begginers/blob/main/IMG_20230828_103840.jpg">
 

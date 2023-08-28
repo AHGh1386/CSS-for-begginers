@@ -145,6 +145,17 @@ p[lang="Spanish"]{
      color: blue;
 }
 ```
+## Not selectors
+
+```css
+:not(#para1){
+    color: green;
+}
+```
+
+This gives style to all of the elements except the element that its id is para1.👆👆
+
+
 # 4.Grid
 
 ## What is grid??

@@ -120,6 +120,7 @@ blockquote.test>p{
 ```
 ## What is grid??
 
+CSS Grid gives you the tools to create basic and advanced website layouts in responsive ways that look great on mobile, tablet, and desktop devices.
 
 ## CSS Grid Layout Module
 

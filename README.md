@@ -13,6 +13,10 @@
    2. id selectors
    3. Class selectors
    4. Child selectors
+   5. Wildcard selectors
+   6. Attribute selectors
+   7. Not selectors
+  
 
 4. Grid
    1. What is grid
@@ -118,6 +122,16 @@ blockquote.test>p{
      color: crimson; 
 }
 ```
+
+## Wildcard selectors
+
+```css
+*{
+   color: red;
+}
+```
+This gives style to all of the elements 👆
+
 ## What is grid??
 
 CSS Grid gives you the tools to create basic and advanced website layouts in responsive ways that look great on mobile, tablet, and desktop devices.

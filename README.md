@@ -167,7 +167,7 @@ CSS Grid gives you the tools to create basic and advanced website layouts in res
 <img src="https://github.com/AHGh1386/CSS-for-begginers/blob/main/IMG_20230828_103840.jpg">
 
 ### Example:
-
+HTML 👇👇
 ```html
 <div class="grid-container">
   <div class="grid-item">1</div>
@@ -180,6 +180,12 @@ CSS Grid gives you the tools to create basic and advanced website layouts in res
   <div class="grid-item">8</div>
   <div class="grid-item">9</div>
 </div>
+```
+CSS👇👇
+```css
+.grid-container{
+     display : grid;
+}
 ```
 
 <img src="https://github.com/AHGh1386/CSS-for-begginers/blob/main/IMG_20230828_104654.jpg">

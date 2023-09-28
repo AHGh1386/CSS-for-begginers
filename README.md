@@ -213,5 +213,17 @@ example:
   display: flex;
 }
 ```
+The flex container properties are:
+<ul>
+    <li>flex-direction</li>
+    <li>flex-wrap</li>
+    <li>flex-flow</li>
+    <li>justify-content</li>
+    <li>align-items</li>
+    <li>align-content</li>
+<ul>
+
+example is in the stylesheet.css
+
 
 ### Give star⭐ if it was useful 😉

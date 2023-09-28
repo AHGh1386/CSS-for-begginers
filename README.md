@@ -208,4 +208,10 @@ example:
 </div>
 ```
 
+```css
+.flex-container {
+  display: flex;
+}
+```
+
 ### Give star⭐ if it was useful 😉

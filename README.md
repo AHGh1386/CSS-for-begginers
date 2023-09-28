@@ -21,6 +21,8 @@
 4. Grid
    1. What is grid
    2. CSS Grid Layout Module
+5. Flexbox
+   1. Flexbox Elements
 
 
 # 1.CSS Introduction:
@@ -191,6 +193,19 @@ CSS👇👇
 
 <img src="https://github.com/AHGh1386/CSS-for-begginers/blob/main/IMG_20230828_104654.jpg">
 
+# 5.Flexbox
 
+## Flexbox Elements
+To start using the Flexbox model, you need to first define a flex container.
+
+example:
+```html
+
+<div class="flex-container">
+  <div>1</div>
+  <div>2</div>
+  <div>3</div>
+</div>
+```
 
 ### Give star⭐ if it was useful 😉

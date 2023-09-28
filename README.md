@@ -221,7 +221,7 @@ The flex container properties are:
     <li>justify-content</li>
     <li>align-items</li>
     <li>align-content</li>
-<ul>
+</ul>
 
 example is in the flexstylesheet.css
 

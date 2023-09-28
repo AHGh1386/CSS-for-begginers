@@ -223,7 +223,7 @@ The flex container properties are:
     <li>align-content</li>
 <ul>
 
-example is in the stylesheet.css
+example is in the flexstylesheet.css
 
 
 ### Give star⭐ if it was useful 😉
